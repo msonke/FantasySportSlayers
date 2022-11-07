@@ -4,18 +4,21 @@
 
 - Django (Blog Backend)
 - React Native (Mobile Frontend)
-- GraphQL (API Facilities)
-- Redux (State Management)
 - RMDB + Storage
-- Backups
+- Redux (State Management)
+- GraphQL (API Facilities)
+- Docker (NetSec)
 - Terraform (IaC)
 - Ansible (Config)
-- Docker (NetSec)
+- Backups
+- CI/CD
 
 ## Features:
 
 - Blog
 - Lineup Generation Tools
 - eCommerce Shop
-- Login
+- Login + Authentication
 - Chat
+- Fantasy Sports Platform
+- Research
