@@ -2,7 +2,7 @@
 
 ## Infrastructure Goals:
 
-- Django (Blog Backend)
+- Django (Admin/Backend Wrapper)
 - Strapi (CMS)
 - React Native (Mobile Frontend)
 - RMDB + Storage

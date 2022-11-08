@@ -4,7 +4,7 @@ Build Environment:
 > python -m venv env
 
 Activate Environment:
-> source codebase-env/bin/activate
+> source env/bin/activate
 > deactivate
 
 Freeze Dependencies:
