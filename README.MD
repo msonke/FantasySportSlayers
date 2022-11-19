@@ -16,6 +16,8 @@
 
 ## Features:
 
+- Chromecast Display Board
+
 - Blog
 - Lineup Generation Tools
 - eCommerce Shop
@@ -23,3 +25,9 @@
 - Chat
 - Fantasy Sports Platform
 - Research
+
+### Whitepaper
+
+This is designed as a modular site that can add features as time goes on.  Admin through Django, connected through GraphQL API, packaged and deployed using slim secure docker containers, using serverless methodology when possible.
+
+Eventually will connect to a shopify "third-party" site for merchandizing.
